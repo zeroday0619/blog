@@ -1,3 +1,15 @@
+.github/
+.github/*
+.vscode
+.vscode/*
+assets/
+assetc/*
+
+SECURITY.md
+CONTRIBUTING.md
+README.ko.md
+
+
 # Logs
 logs
 *.log
