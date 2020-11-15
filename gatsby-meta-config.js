@@ -15,7 +15,7 @@ module.exports = {
   keywords: [`blog`, 'zeroday', 'zeroday0619', 'Python', '제로데이', '기술블로그', '파이썬'],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
-    utterances: 'zeroday0619/blog', // Your repository for archive comment
+    utterances: 'zeroday0619/blog.zeroday0619.dev', // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post
