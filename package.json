@@ -77,6 +77,7 @@
     "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
   },
   "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b main -r 'git@github.com:zeroday0619/blog.git'",
     "post": "gatsby-post-gen",
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
