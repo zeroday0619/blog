@@ -77,7 +77,7 @@
     "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
   },
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b main -r 'git@github.com:zeroday0619/blog.zeroday0619.dev.git'",
+    "deploy": "sh deploy.sh",
     "post": "gatsby-post-gen",
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
@@ -89,3 +89,4 @@
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
 }
+
