@@ -25,7 +25,7 @@
     "gatsby-remark-emoji": "0.0.3",
     "gatsby-remark-images": "^3.0.10",
     "gatsby-remark-images-medium-zoom": "^1.7.0",
-    "gatsby-remark-katex": "^3.1.25",
+    "gatsby-remark-katex": "^3.5.0",
     "gatsby-remark-prismjs": "^3.2.6",
     "gatsby-remark-responsive-iframe": "^2.6.0",
     "gatsby-remark-smartypants": "^2.0.9",
